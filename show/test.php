@@ -1,0 +1,1 @@
+<div><a href="mailTo:<?php echo $title;?>" class="btn <?php echo $class; ?>"><?php echo $title;?></a></div>
